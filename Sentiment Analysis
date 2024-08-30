@@ -1,3 +1,7 @@
+#(this project is deployed here:
+https://huggingface.co/spaces/Jekyll2000/Sentiment_Analysis-IMDB_Ratings)
+
+
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.preprocessing.text import Tokenizer
